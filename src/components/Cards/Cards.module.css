@@ -7,6 +7,7 @@
 
 .card {
     margin: 0 2% !important;
+    box-shadow: 20px 5px 30px 0px rgba(4, 111, 250, 0.3)!important;
 }
 
 .infected {
@@ -14,6 +15,7 @@
     /* border-top: 10px solid rgba(0,0,255, 0.5); */
     
     background: rgba(0,0,255, 0.5);
+    
 }
 
 .recovered {
